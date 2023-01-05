@@ -1,0 +1,15 @@
+C:\heo\mvc\bin\Debug\net7.0\mvc.exe
+C:\heo\mvc\bin\Debug\net7.0\mvc.deps.json
+C:\heo\mvc\bin\Debug\net7.0\mvc.runtimeconfig.json
+C:\heo\mvc\bin\Debug\net7.0\mvc.dll
+C:\heo\mvc\bin\Debug\net7.0\mvc.pdb
+C:\heo\mvc\obj\Debug\net7.0\mvc.csproj.AssemblyReference.cache
+C:\heo\mvc\obj\Debug\net7.0\mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\heo\mvc\obj\Debug\net7.0\mvc.AssemblyInfoInputs.cache
+C:\heo\mvc\obj\Debug\net7.0\mvc.AssemblyInfo.cs
+C:\heo\mvc\obj\Debug\net7.0\mvc.csproj.CoreCompileInputs.cache
+C:\heo\mvc\obj\Debug\net7.0\mvc.dll
+C:\heo\mvc\obj\Debug\net7.0\refint\mvc.dll
+C:\heo\mvc\obj\Debug\net7.0\mvc.pdb
+C:\heo\mvc\obj\Debug\net7.0\mvc.genruntimeconfig.cache
+C:\heo\mvc\obj\Debug\net7.0\ref\mvc.dll
